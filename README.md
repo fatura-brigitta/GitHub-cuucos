@@ -1,0 +1,3 @@
+ - saláta
+ - répa
+ - mogyoró
